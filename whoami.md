@@ -11,14 +11,15 @@ tags: []
 
 * 문형일
 * 다룰줄 아는 것 : C/C++,Python
-* [깃허브]("https://github.com/godmoonl")
-* [BOJ]("https://acmicpc.net/user/moonhi123")
+* [깃허브](https://github.com/godmoonl)
+* [BOJ](https://acmicpc.net/user/moonhi123)
+
 ---
 
 ## 업적
 
 ## 2019
-* [모두끄투 운영 중]("https://modutu.tk")
+* [모두끄투 운영 중](https://modutu.tk)
 
 ## 2018
 * 정보올림피아드 전국본선 동상
