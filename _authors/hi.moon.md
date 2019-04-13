@@ -1,5 +1,5 @@
 ---
-name: bryan.j
-title: 조승현
+name: hi.moon
+title: 문형일
 image: /files/authors/bryan.j.jpg
 ---
