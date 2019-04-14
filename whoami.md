@@ -32,13 +32,12 @@ tags: []
 
 ## 관심
 
-* Problem Solving
-* Programming Language: Python
+* Problem Solving, Dynamic Programing
+* Programming Language: C/C++, Python
 
 ---
 
 ## 연락
 
 GODMOONL#7059  
-himoon345@gmail.com
-
+himoon345@gmail.com  
