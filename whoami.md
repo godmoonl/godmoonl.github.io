@@ -1,6 +1,6 @@
 ---
 layout: page
-title: whoami
+title: GODMOONL 소개
 image: /files/covers/openapi.png
 permalink: /whoami/
 sitemap: yes
