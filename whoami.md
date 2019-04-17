@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GODMOONL 소개
-image: /files/covers/openapi.png
+image: /assets/images/default_blog_cover.jpg
 permalink: /whoami/
 sitemap: yes
 tags: []
